@@ -3,7 +3,7 @@
 
 
 ## Short Summary
-- Created an interactive Excel dashboard to analyze **$22.97M** in total sales, **$2.86M** profit, and **9,994** total orders across categories and regions.
+- Created an interactive Excel dashboard to analyze Category wise sales , ship- mode wise sales across categories and regions.
 - Visualized key metrics, such as **category-wise** sales (Furniture: $8.36M, Technology: $7.19M) and **region-wise** performance (West: $6.78M).
 - Highlighted top **sub-categories** by profit (e.g., Copiers: $55.6K, Phones: $44.5K) and identified **consumer segments** with **highest revenue** ($11.6M).
 - Enabled actionable insights by analyzing **shipment modes** and **customer segments** for performance optimization.
