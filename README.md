@@ -1,5 +1,6 @@
 # DMart Sales Dashboard 
-![Dashboard]
+<img width="1887" height="862" alt="XL DMart Sales Dashboard" src="https://github.com/user-attachments/assets/0c86d4c8-e4e6-4f86-a5d3-92fa085374f8" />
+
 
 ## Short Summary
 - Created an interactive Excel dashboard to analyze **$22.97M** in total sales, **$2.86M** profit, and **9,994** total orders across categories and regions.
